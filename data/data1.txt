@@ -1,0 +1,4 @@
+My name is Joe.
+I am a software developer.
+I have 12 years of experience.
+I work with Python and Django.
